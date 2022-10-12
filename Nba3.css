@@ -1,0 +1,68 @@
+h1 
+{ 
+ text-align: center; 
+ font-family: "Bradley Hand", cursive; 
+ font-style: normal; 
+ font-weight: 100; 
+} 
+
+p 
+{ 
+ text-align: center; 
+ font-family: "Bradley Hand", cursive; 
+ font-style: normal; 
+ font-weight: 200; 
+} 
+
+h2 
+{ 
+ text-align: center; 
+ font-family: "Bradley Hand", cursive; 
+ font-style: normal; 
+ font-weight: 100; 
+} 
+
+h3 
+{ 
+ text-align: center; 
+ font-family: "Bradley Hand", cursive; 
+ font-style: normal; 
+ font-weight: 100; 
+} 
+
+li 
+{ 
+ text-align: center; 
+ font-family: "Bradley Hand", cursive; 
+ font-style: normal; 
+ font-weight: 200; 
+} 
+
+body 
+{ 
+ background: #DA70D6; 
+ color: #DCDCDC; 
+}
+
+.center { 
+display: block; 
+margin-left: auto; 
+margin-right: auto; 
+} 
+
+nav 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 100; 
+} 
+
+img 
+{ 
+ border-color: violet; 
+ border-width: small; 
+ border-style: solid; 
+ padding: 1%;
+ margin: 2%; 
+} 

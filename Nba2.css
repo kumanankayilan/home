@@ -1,0 +1,77 @@
+h1
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 100;
+} 
+
+p 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 200; 
+} 
+
+h2 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 100;
+} 
+
+h3 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 100;
+} 
+
+li 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 200;
+} 
+
+body 
+{ 
+ background: #90EE90; 
+ color: #8FBC8F;
+}
+
+.center { 
+display: block; 
+margin-left: auto; 
+margin-right: auto; 
+} 
+
+img 
+{ 
+ border-color: white; 
+ border-width: small; 
+ border-style: solid; 
+ padding: 1%;
+ margin: 2%; 
+} 
+
+nav 
+{ 
+ text-align: center; 
+ font-family: "garamond", times, serif; 
+ font-style: normal; 
+ font-weight: 100;
+} 
+
+img 
+{ 
+ border-color: green; 
+ border-width: small; 
+ border-style: solid; 
+ padding: 1%;
+ margin: 2%; 
+} 
